@@ -1,0 +1,14 @@
+{
+    "rewrites": [
+      { "source": "/about", "destination": "/about.html" },
+      { "source": "/secre", "destination": "/secre.html" },
+      { "source": "/finance", "destination": "/finance.html" },
+      { "source": "/pr", "destination": "/pr.html" },
+      { "source": "/projectDiv", "destination": "/projectDiv.html" },
+      { "source": "/medcre", "destination": "/medcre.html" },
+      { "source": "/socmed", "destination": "/socmed.html" },
+      { "source": "/internal", "destination": "/internal.html" },
+      { "source": "/event", "destination": "/event.html" }
+    ]
+  }
+  
